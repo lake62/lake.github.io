@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lake62"
-  avatar           : "profile.png"
+  avatar           : "circle_loading.gif"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
